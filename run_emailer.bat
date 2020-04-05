@@ -1,0 +1,1 @@
+C:\users\reuben\appdata\local\programs\python\python37-32\python.exe "C:\Users\Reuben\PycharmProjects\auto_emailer\emailer.py" pause
